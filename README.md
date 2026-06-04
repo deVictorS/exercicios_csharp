@@ -1,12 +1,12 @@
-# Exercícios C# 📚
+# Exercícios C# 
 
 Uma coleção organizada de exercícios práticos de sintaxe e conceitos fundamentais de C#, cobrindo estruturas de dados, orientação a objetos e manipulação de dados.
 
-## 📋 Descrição
+##  Descrição
 
 Este repositório contém uma série de exercícios educacionais em C# organizados por tema, desde estruturas homogêneas (arrays) até construtores e modificadores de visibilidade. Cada exercício demonstra conceitos importantes da linguagem através de programas práticos e interativos.
 
-## 🎯 Objetivos
+##  Objetivos
 
 - ✅ Aprender conceitos fundamentais de C#
 - ✅ Praticar programação orientada a objetos
@@ -14,7 +14,7 @@ Este repositório contém uma série de exercícios educacionais em C# organizad
 - ✅ Desenvolver habilidades de lógica de programação
 - ✅ Implementar menus interativos e fluxos de usuário
 
-## 📂 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
 exercicios_csharp/
@@ -38,7 +38,7 @@ exercicios_csharp/
 
 ## 🔍 Tópicos Cobertos
 
-### 1️⃣ Estruturas Homogêneas (`estruturasHomogeneas/`)
+### 1️ Estruturas Homogêneas (`estruturasHomogeneas/`)
 
 **Exercício 1 - Análise de Vetor**
 - Leitura de 10 valores inteiros
@@ -51,7 +51,7 @@ exercicios_csharp/
 
 **Exercício 3** - Manipulação avançada
 
-### 2️⃣ Estruturas Heterogêneas (`estruturasHeterogeneas/`)
+### 2️ Estruturas Heterogêneas (`estruturasHeterogeneas/`)
 
 **Exercício 4 - Cadastro de Produtos**
 - Definição de structs
@@ -60,7 +60,7 @@ exercicios_csharp/
 - Busca por valor
 - Dados: nome, preço, quantidade, data de validade
 
-### 3️⃣ Classes (`classes/`)
+### 3️ Classes (`classes/`)
 
 **Exercício 5 - Agenda de Clínica**
 - Classes aninhadas (Paciente, Data)
@@ -70,7 +70,7 @@ exercicios_csharp/
 - Buscar por médico
 - Dados: médico, paciente, hora, data (dia/mês/ano)
 
-### 4️⃣ Atributos, Propriedades e Métodos (`atributosPropriedadesMetodos/`)
+### 4️ Atributos, Propriedades e Métodos (`atributosPropriedadesMetodos/`)
 
 **Exercício 6 - Sistema de Cadastro de Veículos**
 - Definição completa de classe
@@ -79,7 +79,7 @@ exercicios_csharp/
 - Array de objetos (vetor de 30 veículos)
 - Menu com opções de cadastro e listagem
 
-### 5️⃣ Visibilidade e Acessibilidade (`visibilidadeAcessibilidade/`)
+### 5️ Visibilidade e Acessibilidade (`visibilidadeAcessibilidade/`)
 
 **Exercício 7 - Cadastro de Funcionários**
 - Modificadores de acesso
@@ -87,7 +87,7 @@ exercicios_csharp/
 - Menu de opções
 - Dados: nome, telefone
 
-### 6️⃣ Construtores (`construtores/`)
+### 6️ Construtores (`construtores/`)
 
 **Exercício 8 - Gerenciamento de Vetores**
 - Classe `Gerenciar` com múltiplos métodos
@@ -102,7 +102,7 @@ exercicios_csharp/
   - Listar todos
   - Encontrar maior e menor
 
-## 💻 Como Usar
+##  Como Usar
 
 ### Requisitos
 - **Visual Studio 2019+** ou **Visual Studio Code**
@@ -133,7 +133,7 @@ dotnet exercicio1.dll
 3. Pressionar `F5` para executar
 4. Ou `Ctrl+Shift+B` para compilar
 
-## 📝 Exemplos de Uso
+##  Exemplos de Uso
 
 ### Exercício 1 - Análise de Vetor
 
@@ -198,7 +198,7 @@ Maior elemento do vetor: 95
 Menor elemento do vetor: 12
 ```
 
-## 🔑 Conceitos-Chave Cobertos
+##  Conceitos-Chave Cobertos
 
 ### Tipos de Dados
 - `int`, `string`, `double`
@@ -226,7 +226,7 @@ Menor elemento do vetor: 12
 - **Condicionais** - `if`, `switch`
 - **Random** - Geração de números aleatórios
 
-## 📊 Organização por Nível
+##  Organização por Nível
 
 ### Iniciante
 - ✅ Exercício 1 - Análise de Vetor
@@ -242,7 +242,7 @@ Menor elemento do vetor: 12
 - ✅ Exercício 7 - Modificadores de Acesso
 - ✅ Exercício 8 - Construtores e Gerenciamento
 
-## 🎓 Dicas de Aprendizado
+##  Dicas de Aprendizado
 
 1. **Comece pelo Exercício 1** - Entenda arrays e vetores
 2. **Progresso Gradual** - Avance de forma sequencial
@@ -250,7 +250,7 @@ Menor elemento do vetor: 12
 4. **Adicione Novas Features** - Estenda os exercícios
 5. **Pratique Regularmente** - Consistência é fundamental
 
-## 🚀 Próximos Passos
+##  Próximos Passos
 
 Depois de completar estes exercícios, explore:
 - Herança e Polimorfismo
@@ -260,18 +260,18 @@ Depois de completar estes exercícios, explore:
 - Bancos de Dados (SQL)
 - Async/Await
 
-## 📚 Recursos Adicionais
+##  Recursos Adicionais
 
 - [Microsoft Docs - C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [C# Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 - [LINQ Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
 - [.NET Tutorial](https://dotnet.microsoft.com/learn)
 
-## 📄 Licença
+##  Licença
 
 Este projeto não possui licença especificada.
 
-## 👨‍💻 Autor
+##  Autor
 
 [deVictorS](https://github.com/deVictorS)
 
